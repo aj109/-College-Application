@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "550911393924",
+    "project_id": "mit-aoe-app",
+    "storage_bucket": "mit-aoe-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550911393924:android:ee3daca98c1f1a68ddc2d1",
+        "android_client_info": {
+          "package_name": "com.example.admincollegeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550911393924-oq7u1tansum5ums98p97ag56pd3fob0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFzTebUxPoWV0YP3jKk1y-3Z_1oe6AdYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550911393924-oq7u1tansum5ums98p97ag56pd3fob0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
